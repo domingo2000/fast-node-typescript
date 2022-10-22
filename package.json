@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "clean": "rimraf dist node_modules dist coverage",
     "test": "jest",
     "build:clean": "rimraf dist",
     "build:code": "tsc",
