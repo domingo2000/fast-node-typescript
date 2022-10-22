@@ -1,0 +1,21 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  "extends": ["plugin:@typescript-eslint/recommended", "prettier", "google"],
+  "plugins": [
+    "prettier"
+  ],
+  "overrides": [],
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "object-curly-spacing": ["error", "always"],
+    "quotes": ["error", "double"],
+    "@typescript-eslint/explicit-function-return-type": "error"
+  }
+}

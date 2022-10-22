@@ -1,0 +1,9 @@
+{
+  "clearMocks": true,
+  "collectCoverage": true,
+  "coverageDirectory": "coverage",
+  "coverageProvider": "v8",
+  "transform": {
+    "^.+\\.tsx?$": "esbuild-jest"
+  }
+}
