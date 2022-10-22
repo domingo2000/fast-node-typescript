@@ -13,7 +13,7 @@
   
 </div>
 
-## ⭐ Features
+## 😎 Features
 
 - 🚀 Fast: Configured for fast development.
 - 💻 Easy Development: Development configurations like hot-reloading, all with performance improve configurations.
@@ -50,7 +50,7 @@ Use all the template scripts under the `package.json` file.
 - We all know the time and effort that must be spended in a node project to follow good code practices, including linting, formating and testing, the idea of this project is to group a lot of this good practices in a minimal template that could be used for many projects.
 - Another common problem with typescript is that all the bundling and compiling is by default slow, using more modern compilers this repo introduce a lot of performance improvement, for faster build times and automatic test iterations.
 
-## 📘 Core Libraries and technologies:
+## 📚 Core Libraries and technologies:
 - [Typescript](https://www.typescriptlang.org/): Better quality code and scalability with support for types, static code análisys, interfaces, decorators, etc.
 - [Jest](https://jestjs.io/): Automated testing library
 - [Eslint](https://eslint.org/): Linter for better code quality
@@ -77,12 +77,7 @@ Faker is an MIT-licensed open source project with its ongoing development made p
 
 Please make sure to read the [Contributing Guide](https://github.com/faker-js/faker/blob/next/CONTRIBUTING.md) before making a pull request. -->
 
-## 📘 Credits
-
-This project has been developed by the following contributors:
-
-<!-- <a href="https://github.com/faker-js/faker/graphs/contributors"><img src="https://opencollective.com/fakerjs/contributors.svg?width=800" /></a> -->
-
+## 📖 Credits
 
 The following project takes a lot of configurations of [Faker](https://github.com/faker-js/faker) project, including scripts, readme, etc. Go check the library, they have really nice tooling!.
 
