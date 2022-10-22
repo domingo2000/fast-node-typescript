@@ -73,9 +73,9 @@ Faker is an MIT-licensed open source project with its ongoing development made p
 
 ![](https://opencollective.com/fakerjs/individuals.svg) -->
 
-## ✨ Contributing
+<!-- ## ✨ Contributing
 
-Please make sure to read the [Contributing Guide](https://github.com/faker-js/faker/blob/next/CONTRIBUTING.md) before making a pull request.
+Please make sure to read the [Contributing Guide](https://github.com/faker-js/faker/blob/next/CONTRIBUTING.md) before making a pull request. -->
 
 ## 📘 Credits
 
